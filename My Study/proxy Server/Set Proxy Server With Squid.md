@@ -60,16 +60,6 @@ sudo systemctl restart squid
  - http://cfile6.uf.tistory.com/attach/17645B434FA144E3022E40
  - https://www.clien.net/service/board/lecture/11500797
 
-- - -
-- 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-D --> O
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTgyNTc2XX0=
+eyJoaXN0b3J5IjpbMjA3MzY1MTQyM119
 -->
