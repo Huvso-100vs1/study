@@ -1,2 +1,0 @@
-# study
-My Study Repo
