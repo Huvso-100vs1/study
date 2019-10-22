@@ -4,10 +4,13 @@
  - IPv6 주소는 휴대폰 및 컴퓨터에 할당되어 적용되고 있음
 
 # IPv4 vs IPv6
-|  |  |  |
-|--|--|--|
-|  |  |
-
+|        |IPv4  |IPv6  |
+|--------|------|--|
+|비트 수  |- 32bits      |- 128bits  |
+|호스트 주소 자동 설정|
+|비트 수  |
+|비트 수  |
+|비트 수  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTQxMTQyMF19
+eyJoaXN0b3J5IjpbNjA1MDQ3Mjc4XX0=
 -->
