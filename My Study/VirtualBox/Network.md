@@ -1,7 +1,9 @@
 # 버추얼박스 네트워크 이해 및 구성
 
-## 가상 NIC 종류
+
 [참고 자료](https://www.virtualbox.org/manual/ch06.html)
+
+## 가상 NIC 종류
 
 ### 1. AMD PCNet PCI II (Am79C970A)
  - 게스트 OS의 종류에 상관 없이 호환성이 가장 좋은 일반적인 NIC
@@ -27,8 +29,15 @@
 
 
 ## 네트워킹 모드들
-
+### 1. Not attached.
+ - 
+### 2. Network Address Translation(NAT)
+### 3. NAT Network
+### 4. Bridged networking
+### 5. Internal networking
+### 6. Host-only networking
+### 7. Generic networking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMxMDQ4MDQsLTEyNDYwMTc0MzFdfQ
-==
+eyJoaXN0b3J5IjpbNTMyNTYwNzU1LC0yMTMzMTA0ODA0LC0xMj
+Q2MDE3NDMxXX0=
 -->
