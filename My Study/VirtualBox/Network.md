@@ -17,7 +17,7 @@
 ### 3. Intel PRO/1000 MT Desktop (82540EM)
  - 윈도우 비스타 이후 버전 호환 NIC
  - 기가비트를 지원함
- - 
+
 ### 4. Intel PRO/1000 T Server (82543GC)
  - 추가 드라이브 설치 필요 없이 Windows XP 게스트에서 인식됨
 
@@ -42,6 +42,6 @@
 ### 6. Host-only networking
 ### 7. Generic networking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzQ0MDE2MywtMjEzMzEwNDgwNCwtMT
-I0NjAxNzQzMV19
+eyJoaXN0b3J5IjpbMTQ0MjIzODY0OCwtMzU3NDQwMTYzLC0yMT
+MzMTA0ODA0LC0xMjQ2MDE3NDMxXX0=
 -->
