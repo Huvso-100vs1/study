@@ -17,7 +17,9 @@
 |Intel PRO/1000 MT Desktop (82540EM)               |근래의 시스템에서 가장 기본적으로 제공하는 NIC이며 기가비트를 지원함|
 |Intel PRO/1000 T Server (82543GC)                 |XP 같은 시스템에서 별도의 드라이버 없이 사용이 가능한 NIC|
 |Intel PRO/1000 MT Server (82545EM)                |Intel PRO/1000 T Server와 동이하나 다른 플랫폼에서 [OVF](https://ko.wikipedia.org/wiki/%EA%B0%9C%EB%B0%A9%ED%98%95_%EA%B0%80%EC%83%81%ED%99%94_%ED%8F%AC%EB%A7%B7)로 가져오기가 용이함|
-|Paravirtualized network adapter (virtio-net)      | |
+|Paravirtualized network adapter (virtio-net)      |반 가상화 네트워크 어댑터|
+
+
 
 
 
@@ -28,5 +30,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNzQxMTA0LC0xMjQ2MDE3NDMxXX0=
+eyJoaXN0b3J5IjpbMTk4NDMwNzM5MiwtMTI0NjAxNzQzMV19
 -->
