@@ -10,8 +10,21 @@
 	5. Intel PRO/1000 MT Server (82545EM)
 	6. Paravirtualized network adapter (virtio-net)
 
+|NIC 종류|설명  |
+|----------------------------------------------------|--|
+|AMD PCNet PCI II (Am79C970A)                      |  |
+|AMD PCNet FAST III (Am79C973), the default setting| |
+|Intel PRO/1000 MT Desktop (82540EM)               | |
+|Intel PRO/1000 T Server (82543GC)                 | |
+|Intel PRO/1000 MT Server (82545EM)                | |
+|Paravirtualized network adapter (virtio-net)      | |
+
+
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MjEwMjE4XX0=
+eyJoaXN0b3J5IjpbLTE0OTA1MTIxMTBdfQ==
 -->
