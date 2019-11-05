@@ -4,12 +4,12 @@
 [참고 자료](https://www.virtualbox.org/manual/ch06.html)
 
 ### 1. AMD PCNet PCI II (Am79C970A)
- - 하위 운영체제에서 크게 무리 없이 잡히는 호환성이 가장 좋은 일반적인 NIC
+ - 게스트 OS의 종류에 상관 없이 호환성이 가장 좋은 일반적인 NIC
  - 성능이 좋지 않음.
 
 ### 2. AMD PCNet FAST III (Am79C973), the default setting
  - Default NIC
- - 호스트 OS의 종류에 상호환성이 가장 좋은 일반적인 NIC
+ - 게스트 OS의 종류에 상관 없이 호환성이 가장 좋은 일반적인 NIC
  - 근래의 최신 OS에서는 더이상 드라이버를 지원하지 않음
 
 ### 3. Intel PRO/1000 MT Desktop (82540EM)
@@ -17,7 +17,7 @@
  - 기가비트를 지원함
  - 
 ### 4. Intel PRO/1000 T Server (82543GC)
-
+ - 추가 드라이브 설치 필요 없이 Windows
 ### 5. Intel PRO/1000 MT Server (82545EM)
 
 ### 6. Paravirtualized network adapter (virtio-net)
@@ -42,5 +42,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MjQwNjkxLC0xMjQ2MDE3NDMxXX0=
+eyJoaXN0b3J5IjpbMTc4ODYxOTAxNSwtMTI0NjAxNzQzMV19
 -->
