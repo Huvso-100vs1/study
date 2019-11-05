@@ -30,7 +30,8 @@
 
 ## 네트워킹 모드들
 ### 1. Not attached.
- - 
+ - 게스트에 NIC가 있지만 연결이 없음을 나타냄
+ - ㅇ
 ### 2. Network Address Translation(NAT)
 ### 3. NAT Network
 ### 4. Bridged networking
@@ -38,6 +39,6 @@
 ### 6. Host-only networking
 ### 7. Generic networking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNTYwNzU1LC0yMTMzMTA0ODA0LC0xMj
-Q2MDE3NDMxXX0=
+eyJoaXN0b3J5IjpbMjAyNjc3NzQ1OSwtMjEzMzEwNDgwNCwtMT
+I0NjAxNzQzMV19
 -->
