@@ -8,12 +8,12 @@
  - 성능이 좋지 않음.
 
 ### 2. AMD PCNet FAST III (Am79C973), the default setting
- - 하위 운영체제에서 크게 무리 없이 잡히는 호환성이 가장 좋은 일반적인 NIC
+ - Default NIC
+ - 호스트 OS의 종류에 상호환성이 가장 좋은 일반적인 NIC
  - 근래의 최신 OS에서는 더이상 드라이버를 지원하지 않음
 
 ### 3. Intel PRO/1000 MT Desktop (82540EM)
  - 윈도우 비스타 이후 버전 호환 NIC
- - 근래의 시스템에서 가장 기본적으로 제공하는 NIC
  - 기가비트를 지원함
  - 
 ### 4. Intel PRO/1000 T Server (82543GC)
@@ -42,5 +42,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDExNzg4NywtMTI0NjAxNzQzMV19
+eyJoaXN0b3J5IjpbNDg3MjQwNjkxLC0xMjQ2MDE3NDMxXX0=
 -->
