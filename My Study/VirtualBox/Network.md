@@ -31,14 +31,17 @@
 ## 네트워킹 모드들
 ### 1. Not attached.
  - 게스트에 NIC가 있지만 연결이 없음을 나타냄
- - ㅇ
+ - 이더넷 케이블이 연결되어 있지 않은 상태
+ - NIC 설정을 재구성할 때 사용 할 수 있음
+
 ### 2. Network Address Translation(NAT)
+ - 
 ### 3. NAT Network
 ### 4. Bridged networking
 ### 5. Internal networking
 ### 6. Host-only networking
 ### 7. Generic networking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjc3NzQ1OSwtMjEzMzEwNDgwNCwtMT
+eyJoaXN0b3J5IjpbLTM1NzQ0MDE2MywtMjEzMzEwNDgwNCwtMT
 I0NjAxNzQzMV19
 -->
